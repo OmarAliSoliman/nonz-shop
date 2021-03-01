@@ -87,6 +87,12 @@ img {
     padding-top: 10px;
     margin-bottom: 0;
     text-align: left;
+    .dropdown-toggle:focus{
+      box-shadow: none;
+    }
+    .hello{
+      margin-left: 10px;
+    }
     ul {
       li {
         padding: 10px;

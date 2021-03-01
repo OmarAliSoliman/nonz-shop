@@ -78,6 +78,12 @@ img {
   margin-bottom: 0;
   text-align: left;
 }
+.upper-nav .login .dropdown-toggle:focus {
+  box-shadow: none;
+}
+.upper-nav .login .hello {
+  margin-left: 10px;
+}
 .upper-nav .login ul li {
   padding: 10px;
   display: inline-block;
